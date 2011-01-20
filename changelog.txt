@@ -63,7 +63,7 @@ user abords after the config file was written
 with swap partitions
 * added SWAP_PART_LIST constant which contains the path to the temporary text file with
 the swap partitions
-* added code to um_all.sh to check whether /media/hdinstall exists before trying to kill it.
+* added code to um_all.sh to check whether /fll/hdinstall exists before trying to kill it.
 Not needed, it was just bugging me.
 
 ___________________________________
